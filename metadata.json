@@ -1,0 +1,5 @@
+{
+  "name": "GERADO DE EBOOK",
+  "description": "An AI-powered application that takes a user prompt to generate a complete PDF document, including structured text and relevant images, all created by Gemini.",
+  "requestFramePermissions": []
+}
